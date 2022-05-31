@@ -7,7 +7,7 @@ const App = () => {
   const [advice, setAdvice] = useState('')
   
   const test = () => {
-    console.log('test')
+    console.log('tests')
   }
 
   const fetchAdvice = async () => {
